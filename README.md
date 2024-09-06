@@ -47,6 +47,3 @@ Se você é um fã de One Piece e gosta de programação, sinta-se à vontade pa
 **Vamos navegar juntos pelo Grand Line!** ️
 
 **#OnePiece #JavaScript #WebDev #OpenSource**
-
-**Observação:** Adapte este README.md para o seu projeto, incluindo informações mais específicas e relevantes. Você pode adicionar imagens, links para documentação, e outras informações que julgar relevantes. 
-
